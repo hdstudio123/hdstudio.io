@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0.3" start="node1" apprev="17298">
+  <panorama hideabout="1" id="node1">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="114.386" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Entrance" source="" author="Create your virtual tour" tags="Entrance" longitude="44.78535128" info="" description="" comment="" latitude="41.70913124"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-0.42" title="Lobby" url="{node2}" skinid="ht_node" target="-40.3/2.6/70.0" pan="9.06342" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="74.9029" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Lobby" source="" author="Create your virtual tour" tags="Entrance" longitude="44.78540242" info="" description="" comment="" latitude="41.70912145"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-11.17" title="Entrance" url="{node1}" skinid="ht_node" target="$fwd" pan="150.39" description="" id="Point01"/>
+      <hotspot tilt="-8.69" title="Yard" url="{node3}" skinid="ht_node" target="-117.0/-2.9/70.0" pan="-31.1205" description="" id="Point02"/>
+      <hotspot tilt="-11.71" title="Stairs" url="{node8}" skinid="ht_node" target="63.8/2.9/70.0" pan="74.9825" description="" id="Point03"/>
+      <hotspot tilt="-7.78" title="Terrace" url="{node13}" skinid="ht_node" target="-75.5/-5.8/70.0" pan="21.7374" description="" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="152.784" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Yard" source="" author="Create your virtual tour" tags="Yard" longitude="44.78549645" info="" description="" comment="" latitude="41.70909719"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.06" title="Yard" url="{node3}" skinid="ht_node" target="63.5/0.0/70.0" pan="221.492" description="" id="Point01"/>
+      <hotspot tilt="-12.22" title="Mirror hall" url="{node5}" skinid="ht_node" target="-148.0/1.9/70.0" pan="134.454" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-130.583" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Mirror hall" source="" author="Create your virtual tour" tags="Mirror hall" longitude="44.78551153" info="" description="" comment="" latitude="41.70913270"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.54" title="Yard" url="{node4}" skinid="ht_node" target="$fwd" pan="30.5769" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="179.92" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Apartment" source="" author="Create your virtual tour" tags="Apartment" longitude="44.78540906" info="" description="" comment="" latitude="41.70910095"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-11.64" title="Yard" url="{node3}" skinid="ht_node" target="$fwd" pan="106.37" description="" id="Point01"/>
+      <hotspot tilt="-12.66" title="WC" url="{node7}" skinid="ht_node" target="-58.2/-1.5/70.0" pan="63.5618" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="60.3407" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="Apartment" longitude="44.78545482" info="" description="" comment="" latitude="41.70908344"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-17.01" title="Apartment" url="{node6}" skinid="ht_node" target="$fwd" pan="124.642" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="66.1614" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Stairs" source="" author="Create your virtual tour" tags="Wardrobe" longitude="44.78540243" info="" description="" comment="" latitude="41.70916270"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.06" title="Lobby" url="{node2}" skinid="ht_node" target="$fwd" pan="245.841" description="" id="Point01"/>
+      <hotspot tilt="-21.14" title="Wardrobe" url="{node9}" skinid="ht_node" target="-90.7/-13.0/70.0" pan="-24.2516" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="10.2541" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Wardrobe" source="" author="Create your virtual tour" tags="Wardrobe" longitude="44.78545051" info="" description="" comment="" latitude="41.70916194"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-5.61" title="Stairs" url="{node8}" skinid="ht_node" target="$fwd" pan="100.231" description="" id="Point01"/>
+      <hotspot tilt="-14.07" title="WC" url="{node10}" skinid="ht_node" target="-73.3/1.8/70.0" pan="21.4549" description="" id="Point02"/>
+      <hotspot tilt="-5.98" title="WC" url="{node12}" skinid="ht_node" target="-175.3/5.0/70.0" pan="-43.6716" description="" id="Point03"/>
+      <hotspot tilt="-7.26" title="WC" url="{node11}" skinid="ht_node" target="-72.9/1.7/70.0" pan="-91.3178" description="" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-61.1629" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="Wardrobe" longitude="44.78543980" info="" description="" comment="" latitude="41.70920195"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-17.82" title="Wardrobe" url="{node9}" skinid="ht_node" target="$fwd" pan="-231.102" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="26.5167" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="Wardrobe" longitude="44.78549985" info="" description="" comment="" latitude="41.70915419"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.84" title="Wardrobe" url="{node9}" skinid="ht_node" target="$fwd" pan="104.935" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-119.832" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="Wardrobe" longitude="44.78549019" info="" description="" comment="" latitude="41.70918319"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.44" title="Wardrobe" url="{node9}" skinid="ht_node" target="$fwd" pan="6.26225" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-6.47256" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Terrace" source="" author="Create your virtual tour" tags="Terrace" longitude="44.78544353" info="" description="" comment="" latitude="41.70914394"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.78" title="Lobby" url="{node2}" skinid="ht_node" target="$fwd" pan="119.452" description="" id="Point01"/>
+      <hotspot tilt="0.42" title="Library" url="{node14}" skinid="ht_node" target="27.7/-4.0/70.0" pan="50.7204" description="" id="Point02"/>
+      <hotspot tilt="-2.91" title="Balcony" url="{node18}" skinid="ht_node" target="-48.4/-1.5/70.0" pan="89.7179" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-84.6669" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Library" source="" author="Create your virtual tour" tags="Library" longitude="44.78539704079867" info="" description="" comment="" latitude="41.70917151353666"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.97" title="Terrace" url="{node13}" skinid="ht_node" target="$fwd" pan="-213.204" description="" id="Point01"/>
+      <hotspot tilt="-5.47" title="Library" url="{node16}" skinid="ht_node" target="-71.1/1.4/70.0" pan="-26.0723" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="2.83238" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Lodge" source="" author="Create your virtual tour" tags="Lodge" longitude="44.785372486814026" info="" description="" comment="" latitude="41.70922151117499"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.54" title="Library" url="{node16}" skinid="ht_node" target="$fwd" pan="161.478" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-132.139" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Library" source="" author="Create your virtual tour" tags="Library" longitude="44.78535643435862" info="" description="" comment="" latitude="41.709190021183545"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.04" title="Library" url="{node14}" skinid="ht_node" target="147.7/0.8/70.0" pan="-253.544" description="" id="Point01"/>
+      <hotspot tilt="-8.57" title="Lodge" url="{node15}" skinid="ht_node" target="3.5/6.9/70.0" pan="-152.164" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="51.9334" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Balcony" source="" author="Create your virtual tour" tags="Balcony" longitude="44.78537413" info="" description="" comment="" latitude="41.70918619"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.79" title="Balcony" url="{node18}" skinid="ht_node" target="$fwd" pan="-114.418" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1.92183" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Yard" source="" author="Create your virtual tour" tags="Yard" longitude="44.78545482" info="" description="" comment="" latitude="41.70911144"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.32" title="Lobby" url="{node2}" skinid="ht_node" target="$fwd" pan="71.1447" description="" id="Point01"/>
+      <hotspot tilt="-4.85" title="Yard" url="{node4}" skinid="ht_node" target="47.6/-0.0/70.0" pan="-115.134" description="" id="Point02"/>
+      <hotspot tilt="-4.04" title="Apartment" url="{node6}" skinid="ht_node" target="-19.6/-6.9/70.0" pan="105.72" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-136.435" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Balcony" source="" author="Create your virtual tour" tags="Balcony" longitude="44.78538914" info="" description="" comment="" latitude="41.70914008"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-12.07" title="Terrace" url="{node13}" skinid="ht_node" target="$fwd" pan="-197.824" description="" id="Point01"/>
+      <hotspot tilt="-1.94" title="Balcony" url="{node17}" skinid="ht_node" target="61.6/1.1/70.0" pan="-121.576" description="" id="Point02"/>
+      <hotspot tilt="-6.23" title="The Bronze Hall" url="{node19}" skinid="ht_node" target="-98.4/-7.7/70.0" pan="31.1884" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="86.6593" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="The Bronze Hall" source="" author="Create your virtual tour" tags="The Bronze Hall" longitude="44.78537616" info="" description="" comment="" latitude="41.70910044"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.16" title="Balcony" url="{node18}" skinid="ht_node" target="$fwd" pan="73.6727" description="" id="Point01"/>
+      <hotspot tilt="-2.44" title="The Bronze Hall" url="{node20}" skinid="ht_node" target="-45.0/0.8/70.0" pan="259.018" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node20">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="144.581" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="The Bronze Hall" source="" author="Create your virtual tour" tags="The Bronze Hall" longitude="44.78536947" info="" description="" comment="" latitude="41.70906069"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.37" title="The Bronze Hall" url="{node19}" skinid="ht_node" target="$fwd" pan="137.57" description="" id="Point01"/>
+      <hotspot tilt="-3.41" title="Hall" url="{node21}" skinid="ht_node" target="143.6/0.1/70.0" pan="314.902" description="" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-26.2593" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="Hall" source="" author="Create your virtual tour" tags="The Bronze Hall" longitude="44.78536116" info="" description="" comment="" latitude="41.70902393"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.73" title="The Bronze Hall" url="{node20}" skinid="ht_node" target="$fwd" pan="-35.2284" description="" id="Point01"/>
+      <hotspot tilt="-10.37" title="WC" url="{node23}" skinid="ht_node" target="122.6/-2.2/70.0" pan="-158.936" description="" id="Point02"/>
+      <hotspot tilt="-10.77" title="WC" url="{node22}" skinid="ht_node" target="-76.6/-4.7/70.0" pan="-105.769" description="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node22">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-13.4481" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.walkinto.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="The Bronze Hall" longitude="44.78540872" info="" description="" comment="" latitude="41.70903044"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-9.8" title="Hall" url="{node21}" skinid="ht_node" target="$fwd" pan="89.4119" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node23">
+    <input levelbias="0.400" overlap="1" width="3892" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="3892" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level predecode="0" width="3892" height="3892" preload="0"/>
+      <level predecode="0" width="1946" height="1946" preload="0"/>
+      <level predecode="0" width="973" height="973" preload="0"/>
+      <level predecode="1" width="486" height="486" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-99.8556" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fov="50" pan="0"/>
+      <max tilt="90" fov="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="www.hdstudio.ge" customnodeid="" datetime="Call: +995 574 99 76 76" title="WC" source="" author="Create your virtual tour" tags="The Bronze Hall" longitude="44.78539947" info="" description="" comment="" latitude="41.70899643"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" textalpha="1" border="1" enabled="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.02" title="Hall" url="{node21}" skinid="ht_node" target="$fwd" pan="-54.0326" description="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" blendtime="1" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" contextprojections="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" hideabout="1" dblclickfullscreen="1" speedwheel="1">
+      <menulink text="&lt;img style=&quot;-webkit-user-select: none;&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3d/Walkinto.ge.jpg&quot;>" url="http://walkinto.ge/?lang=ka"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata copyright="" customnodeid="" datetime="" title="" source="" author="" tags="" longitude="" info="" description="" comment="" latitude=""/>
+  </masternode>
+</tour>
